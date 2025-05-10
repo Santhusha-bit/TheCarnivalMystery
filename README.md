@@ -7,9 +7,7 @@ Welcome to **The Carnival Mystery**, a C++ text-based adventure game where you h
 
 ## 📖 Story
 
-> Liza is a girl who came to a carnival, only to discover that her ring has gone missing.  
-> The ring holds a priceless diamond, and rumor has it that the thief is still lurking somewhere within the carnival grounds.  
-> You, the player, must navigate through various attractions to collect **tokens**, **products**, and **clues** that will lead you to the thief — and Liza's ring — before it's too late.
+> Liza is a girl who came to a carnival, only to discover that her ring has gone missing. The ring holds a priceless diamond, and rumor has it that the thief is still lurking somewhere within the carnival grounds. You, the player, must navigate through various attractions to collect **tokens**, **products**, and **clues** that will lead you to the thief — and Liza's ring — before it's too late.
 
 ---
 
