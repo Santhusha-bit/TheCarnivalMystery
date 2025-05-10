@@ -1,3 +1,4 @@
+
 # 🎪 The Carnival Mystery - A C++ Adventure Game
 
 Welcome to **The Carnival Mystery**, a C++ text-based adventure game where you help a girl named **Liza** recover her stolen diamond ring at a carnival! Explore booths, enjoy rides, collect clues, and solve the mystery — all while managing your points.
@@ -47,3 +48,37 @@ Make sure you have a C++ compiler (like `g++`) installed.
 
 ```bash
 g++ TheCarnivalMystery.cpp -o TheCarnivalMystery
+````
+
+4. Run:
+
+```bash
+./TheCarnivalMystery
+```
+
+---
+
+## ✅ Winning Criteria
+
+To win the game, you must:
+
+* Collect all **3 clues**
+* Buy **5 products**
+* End with at least **100 points**
+
+---
+
+## 🧑 Author
+
+* **Santhusha Mudannayaka**
+* Project for interactive storytelling and game design using object-oriented programming in C++
+
+---
+
+## 📜 License
+
+This project is for educational purposes. Modify and expand it to suit your creativity!
+
+---
+
+🎉 Good luck solving **The Carnival Mystery**!
