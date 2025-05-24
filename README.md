@@ -3,6 +3,9 @@
 
 Welcome to **The Carnival Mystery**, a C++ text-based adventure game where you help a girl named **Liza** recover her stolen diamond ring at a carnival! Explore booths, enjoy rides, collect clues, and solve the mystery — all while managing your points.
 
+![Carnival Game Map](https://github.com/Santhusha-bit/TheCarnivalMystery/raw/main/Carnival%20Map.png)
+
+
 ---
 
 ## 📖 Story
